@@ -1,2 +1,2 @@
 # Login_demo
-Login page demonstration
+Demonstration of simple CSS styling techniques applied to a sample login form.
